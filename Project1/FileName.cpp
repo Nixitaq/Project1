@@ -68,4 +68,5 @@ int main() // клент
 
     char c = a.GetSymbol();
     cout << c << endl;
+    ///
 }
